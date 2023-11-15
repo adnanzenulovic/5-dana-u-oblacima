@@ -11,7 +11,7 @@ This application is implemented using Node.js. Project requirements include [Nod
 Clone the project
 
 ```bash
-  git clone https://link-to-project](https://github.com/adnanzenulovic/5-dana-u-oblacima.git
+  git clone https://github.com/adnanzenulovic/5-dana-u-oblacima.git
 ```
 
 Go to the project directory
